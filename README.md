@@ -1,1 +1,1 @@
-# task-manager
+# task-manager (simple Todo crud operation project)
